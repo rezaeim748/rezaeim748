@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm mohammadreza!
 
 Welcome to my GitHub profile! I'm a passionate software developer and AI enthusiast currently working on projects involving Artificial Neural Networks and Evolutionary System Design.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI enthusi
 
 ### 🌟 About Me
 
-- 🎓 I am currently studying [Your Major] at [Your University].
+- 🎓 I am currently studying computer engineering at AmirKabir University of Technology.
 - 🔭 I’m working on **Graph Neural Networks** (GNNs) and their comparison across different tasks.
 - 🌱 Learning more about **Machine Learning**, **AI**, and **System Design**.
 - 💼 Open to collaborating on AI and neural network-related projects.
@@ -29,19 +29,12 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI enthusi
 
 ---
 
-### 📌 Pinned Repositories
-
-[![Evolutionary Project](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=evolutionary-project)](https://github.com/yourusername/evolutionary-project)
-[![ANN Project](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ann-project)](https://github.com/yourusername/ann-project)
-
----
-
 ### 🚀 Projects
 
-- **[Evolutionary System Design](https://github.com/yourusername/evolutionary-project)**  
+- **[Evolutionary System Design](https://github.com/rezaeim748/evolutionary-game)**  
   Currently building an evolutionary system design project that implements **graph neural networks (GNNs)** with a focus on optimizing learning tasks using advanced AI techniques.
   
-- **[Artificial Neural Networks (ANN) with MNIST Dataset](https://github.com/yourusername/ann-project)**  
+- **[Artificial Neural Networks (ANN) with MNIST Dataset](https://github.com/rezaeim748/MNIST-Digit-Classification)**  
   Exploring neural networks using the **MNIST dataset**, implementing and comparing GNNs with and without learnable weight matrices.
 
 ---
