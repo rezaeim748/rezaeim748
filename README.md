@@ -20,6 +20,15 @@ Currently, I'm focused on a project at the university where I am comparing the p
 - 🧠 Designing GNN architectures tailored for node classification and link prediction.
 - 📊 Utilizing different datasets for training the models.
 - ⚖️ Comparison between models with and without weight matrices.
+
+### 🚀 Featured Projects
+
+- [**Plants vs Zombies game**](https://github.com/rezaeim748/Advanced-Programming-course/tree/master/Project%203): Implementation of the popular "Plants vs Zombies" game
+- [**Humanoid Robot Following**](https://github.com/rezaeim748/Robotic-course/tree/master/HW3#humanoid-robot-following-and-maze-navigation-in-ros): Simulating a mobile robot using ROS for humanoid robot following and autonomous maze navigation
+- [**Fuzzy Logic Systems**](https://github.com/rezaeim748/Computational-Intelligence-course/tree/master/Project%202):A fuzzy logic-based system to model real-world decisions, focusing on handling uncertainty in data.
+- [**Evolutionary Algorithms**](https://github.com/rezaeim748/Computational-Intelligence-course/tree/master/Project%203): Implementation of genetic algorithms to optimize mathematical functions and solve optimization problems.
+
+---
   
 ## 📫 Connect with Me
 
