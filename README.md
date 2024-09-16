@@ -1,25 +1,25 @@
-# Hi there! 👋 I'm Kiarash
+# Hi there! 👋 I'm Mohammadreza
 
-I'm a computer science student at Amirkabir University (Tehran Polytechnic) with a passion for deep learning and its applications in bioinformatics. Currently, I'm working at the Computational Biology Research Center (CBRC).
+I'm a computer engineer student at Amirkabir University (Tehran Polytechnic) with a passion for deep learning. Currently, I'm working on Graph Neural Networks.
 
 ## 🌱 Interests
 
 - 🧠 Deep Learning
-- 🧬 Bioinformatics and Computational Biology
+- 🌐 Graph Neural Networks
 - 🖥️ Artificial Intelligence and Machine Learning
 - 💻 Coding and Problem Solving
 
 ## 📚 Education
 
-- 🎓 Pursuing a Bachelor's degree in Computer Science at Amirkabir University
+- 🎓 Pursuing a Bachelor's degree in Computer Engineering at Amirkabir University
   
 ## 💼 Current Work
 
-Currently, I'm focused on a project at CBRC where I'm leveraging the power of Generative Adversarial Networks (GANs) to optimize drug candidates. My work involves:
+Currently, I'm focused on a project at the university where I am comparing the performance of graph neural networks with and without weight matrices on different tasks. My work involves:
 
-- 🧪 Designing GAN architectures tailored for drug molecule generation
-- 🧬 Generating novel molecular structures with desired properties
-- 📈 Collaborating with domain experts to fine-tune GAN outputs for practical applications
+- 🧠 Designing GNN architectures tailored for node classification and link prediction.
+- 📊 Utilizing different datasets for training the models.
+- ⚖️ Comparison between models with and without weight matrices.
   
 ## 📫 Connect with Me
 
@@ -29,7 +29,7 @@ Feel free to reach out on:
     <a href="https://www.linkedin.com/in/kiarash-mokhtari-17a4371a4/">
       <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin">
     </a>
-    <a href="mailto:mokhtarikiarash@gmail.com">
+    <a href="mailto:rezaeim748@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail">
     </a>
 </div>
