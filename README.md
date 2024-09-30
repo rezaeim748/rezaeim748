@@ -35,7 +35,7 @@ Currently, I'm focused on a project at the university where I am comparing the p
 Feel free to reach out on:
 
 <div display="flex">
-    <a href="">
+    <a href="https://www.linkedin.com/in/mohammadreza-rezaei-385122330/">
       <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin">
     </a>
     <a href="mailto:rezaeim748@gmail.com">
