@@ -11,7 +11,7 @@ I'm a computer engineer student at Amirkabir University (Tehran Polytechnic) wit
 
 ## 📚 Education
 
-- 🎓 Pursuing a Bachelor's degree in Computer Engineering at Amirkabir University
+- 🎓 Bachelor's degree in Computer Engineering from Amirkabir University
   
 ## 💼 Current Work
 
