@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Mohammadreza
 
-I'm a computer engineer student at Amirkabir University (Tehran Polytechnic) with a passion for deep learning. Currently, I'm working on Graph Neural Networks.
+I'm a computer science student at TU Dresden with a passion for deep learning. Currently, I'm working on Graph Neural Networks.
 
 ## 🌱 Interests
 
