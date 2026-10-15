@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammadreza</h1>
 
-## 🌱 Interests
+## 💻 What I Do
 
-- 🌐 Graph Neural Networks
-- 👁️ Computer Vision
-- 💬 Natural Language Processing
-- 🤖 Reinforcement Learning and Robotics
+- 🌐 **Graph Neural Networks:** Explore graph-based learning for representation learning, node classification, and link prediction.
+- 👁️ **Computer Vision:** Work with deep learning methods for image classification, object detection, and segmentation.
+- 💬 **Natural Language Processing:** Explore transformer-based models, language model fine-tuning, and information extraction.
+- 🤖 **Reinforcement Learning and Robotics:** Explore learning-based decision-making, visual perception, and autonomous robot control.
 
 ## 📚 Education
 
