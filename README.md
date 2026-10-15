@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammadreza</h1>
+<h3 align="center">Aspiring AI Engineer · Machine Learning & LLMs · Research-Driven</h3>
+</h3>
 
 ## 💻 What I Do
 
