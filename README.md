@@ -14,14 +14,12 @@ I'm a Master's student in Computer Science at TU Dresden, interested in machine 
 - 🎓 M.Sc. in Computer Science — TU Dresden, ongoing
 - 🎓 B.Sc. in Computer Engineering — Amirkabir University of Technology
   
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 - [**Plants vs Zombies game**](https://github.com/rezaeim748/Advanced-Programming-course/tree/master/Project%203): Implementation of the popular "Plants vs Zombies" game
 - [**Humanoid Robot Following**](https://github.com/rezaeim748/Robotic-course/tree/master/HW3#humanoid-robot-following-and-maze-navigation-in-ros): Simulating a mobile robot using ROS for humanoid robot following and autonomous maze navigation
 - [**Fuzzy Logic Systems**](https://github.com/rezaeim748/Computational-Intelligence-course/tree/master/Project%202): A fuzzy logic-based system to model real-world decisions, focusing on handling uncertainty in data.
 - [**Evolutionary Algorithms**](https://github.com/rezaeim748/Computational-Intelligence-course/tree/master/Project%203): Implementation of genetic algorithms to solve optimization problems.
-
----
 
 ## 🛠️ Tech Stack
 
