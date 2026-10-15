@@ -1,26 +1,19 @@
 # Hi there! 👋 I'm Mohammadreza
 
-I'm a computer science student at TU Dresden with a passion for deep learning. Currently, I'm working on Graph Neural Networks.
+I'm a Master's student in Computer Science at TU Dresden, interested in machine learning and its applications. My experience includes graph neural networks, computer vision, reinforcement learning, and natural language processing. I enjoy implementing models, comparing approaches, and understanding how they work.
 
 ## 🌱 Interests
 
-- 🧠 Deep Learning
 - 🌐 Graph Neural Networks
-- 🖥️ Artificial Intelligence and Machine Learning
-- 💻 Coding and Problem Solving
+- 👁️ Computer Vision
+- 💬 Natural Language Processing
+- 🤖 Reinforcement Learning and Robotics
 
 ## 📚 Education
 
-- 🎓 Bachelor's degree in Computer Engineering from Amirkabir University
+- 🎓 M.Sc. in Computer Science — TU Dresden, ongoing
+- 🎓 B.Sc. in Computer Engineering — Amirkabir University of Technology
   
-## 💼 Current Work
-
-Currently, I'm focused on a project at the university where I am comparing the performance of graph neural networks with and without weight matrices on different tasks. My work involves:
-
-- 🧠 Designing GNN architectures tailored for node classification and link prediction.
-- 📊 Utilizing different datasets for training the models.
-- ⚖️ Comparison between models with and without weight matrices.
-
 ### 🚀 Featured Projects
 
 - [**Plants vs Zombies game**](https://github.com/rezaeim748/Advanced-Programming-course/tree/master/Project%203): Implementation of the popular "Plants vs Zombies" game
@@ -29,6 +22,25 @@ Currently, I'm focused on a project at the university where I am comparing the p
 - [**Evolutionary Algorithms**](https://github.com/rezaeim748/Computational-Intelligence-course/tree/master/Project%203): Implementation of genetic algorithms to solve optimization problems.
 
 ---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat&logo=pyg&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
   
 ## 📫 Connect with Me
 
