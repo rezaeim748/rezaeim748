@@ -1,6 +1,4 @@
-# Hi there! 👋 I'm Mohammadreza
-
-I'm a Master's student in Computer Science at TU Dresden, interested in machine learning and its applications. My experience includes graph neural networks, computer vision, reinforcement learning, and natural language processing. I enjoy implementing models, comparing approaches, and understanding how they work.
+<h1 align="center">Hi 👋, I'm Mohammadreza</h1>
 
 ## 🌱 Interests
 
@@ -40,9 +38,7 @@ I'm a Master's student in Computer Science at TU Dresden, interested in machine 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
   
-## 📫 Connect with Me
-
-Feel free to reach out on:
+## 📫 Let's Connect!
 
 <div display="flex">
     <a href="https://www.linkedin.com/in/mohammadreza-rezaei-385122330/">
